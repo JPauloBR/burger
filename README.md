@@ -1,2 +1,16 @@
 # burger
-Eat-Da-Burger! is a restaurant app that lets users input the names of burgers they'd like to eat.
+* Burgers app that let you create your own burgers and eat them.
+* Heroku Deployment: https://dry-spire-69155.herokuapp.com/
+
+# Details
+
+This full-stack CRUD site will take in all burgers in mysql database. 
+Also, you can eat and add new burgers to the data base.
+All is render dynamically in the page using handlebars.
+
+# NODE packages
+* Express
+* Body-Parser
+* Path
+* mysql
+* Handlebars
